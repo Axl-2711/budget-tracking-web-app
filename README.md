@@ -125,7 +125,7 @@ Author: Srajal Patel
 
   ## Contact
 
-  Author: Shivali Patel
+  Author: Srajal Patel
 
   If you want me to personalize this README further (screenshots, badges, license text or deployment instructions), tell me what to include and I will update it.
 
