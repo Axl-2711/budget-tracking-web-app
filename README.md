@@ -121,15 +121,4 @@ Author: Srajal Patel
 
   ## License
 
-  This repository is mine — feel free to add a license file (e.g., MIT) if you want to open-source it.
-
-  ## Contact
-
-  Author: Srajal Patel
-
-  If you want me to personalize this README further (screenshots, badges, license text or deployment instructions), tell me what to include and I will update it.
-
-  ---
-
-  _This README was authored to present the project as your work. Let me know any wording changes you prefer._
-- React
+  This repository is mine.
